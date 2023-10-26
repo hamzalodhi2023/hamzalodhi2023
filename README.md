@@ -10,7 +10,7 @@ I'm a passionate frontend developer with a love for creating captivating web exp
 - 🌐 A passion for staying up-to-date with the latest web technologies.
 
 🔨 **My Projects:**
-- 🌐 [Portfolio Website](https://hamzalodhi2023.github.io/amazon-clone/)
+- 🌐 [Amazon Clone](https://hamzalodhi2023.github.io/amazon-clone/)
 - 🌐 [YouTube Clone](https://hamzalodhi2023.github.io/youtube-clone/)
 - 🌐 [Envision](https://hamzalodhi2023.github.io/Envision/)
 

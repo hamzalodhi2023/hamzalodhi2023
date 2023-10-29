@@ -20,4 +20,4 @@ I'm always eager to learn and grow in the ever-evolving world of web development
 ## Contact
 
 GitHub: hamzalodhi2023
-Email: [hamzalodhi2023@gmail.com]
+Email: hamzalodhi2023@gmail.com

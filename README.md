@@ -22,11 +22,11 @@ Feel free to explore and contribute to these projects!
 
 **GitHub Activity Status**
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzalodhi2023&show_icons=true) </br>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzalodhi2023&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) </br>
 
 **Languages Status**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzalodhi2023)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzalodhi2023&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ## Contact
 

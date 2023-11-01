@@ -8,6 +8,7 @@ I'm a passionate frontend developer with a love for creating captivating web exp
 - 🛠️ Experience with responsive web design and cross-browser compatibility.
 - 📐 Strong understanding of web accessibility and best coding practices.
 - 🌐 A passion for staying up-to-date with the latest web technologies.
+- 💬 Feel free to reach out to me through my email: hamzalodhi2023@gmail.com
 
 🔨 **My Projects:**
 - 🌐 [Amazon Clone](https://hamzalodhi2023.github.io/amazon-clone/)

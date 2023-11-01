@@ -16,8 +16,25 @@ I'm a passionate frontend developer with a love for creating captivating web exp
 
 🌱 **What's Next:**
 I'm always eager to learn and grow in the ever-evolving world of web development. I'm currently exploring [specific technology or framework], and I'm excited to share my future projects with you. Let's collaborate, create, and make the web a better place, one line of code at a time. 🚀
+Feel free to explore and contribute to these projects!
+
+## 📈 GitHub Stats
+
+**GitHub Activity Status**
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzalodhi2023&show_icons=true) </br>
+
+**Languages Status**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzalodhi2023)
 
 ## Contact
 
 GitHub: hamzalodhi2023
 Email: hamzalodhi2023@gmail.com
+
+❤️ Support
+
+If you find my work interesting or have any questions, feel free to email me.
+
+Thanks for visiting! 😊

@@ -41,6 +41,6 @@ GitHub: hamzalodhi2023
 <br>
 Email: hamzalodhi2023@gmail.com
 ## ❤️ Support
-If you find my work interesting or have any questions, feel free to reach out through email, create a pull request, or open an issue.
+If you find my work interesting or have any questions, feel free to reach out through email, create a pull request, or open an issue. Give it a star 🌟 if you find it useful. 
 
 Thanks for visiting! 😊

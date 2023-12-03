@@ -38,6 +38,7 @@ Feel free to explore and contribute to these projects!
 ## Contact
 
 GitHub: hamzalodhi2023
+<br>
 Email: hamzalodhi2023@gmail.com
 ## ❤️ Support
 If you find my work interesting or have any questions, feel free to reach out through email, create a pull request, or open an issue.

@@ -20,17 +20,21 @@ I'm a passionate frontend developer with a love for creating captivating web exp
 I'm always eager to learn and grow in the ever-evolving world of web development. I'm currently exploring [specific technology or framework], and I'm excited to share my future projects with you. Let's collaborate, create, and make the web a better place, one line of code at a time. 🚀
 Feel free to explore and contribute to these projects!
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-**GitHub Activity Status**
+### GitHub Activity Status
 <br>
-![My GitHub Status](https://github-readme-stats.vercel.app/api?username=hamzalodhi2023&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) </br>
-![My GitHub Status](https://github-readme-activity-graph.vercel.app/graph?username=hamzalodhi2023&theme=react-dark)
 
-**Languages Status**
+![My GitHub Status](https://github-stats-lemon.vercel.app/api?username=hamzalodhi2023&show_icons=true&hide_border=true&theme=react) <br>
+![My GitHub Status](https://github-readme-streak-stats.herokuapp.com/?user=hamzalodhi2023&theme=react)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzalodhi2023&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+### Languages Status
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023&theme=react)
+
+### Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzalodhi2023&theme=react-dark)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>

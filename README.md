@@ -54,14 +54,16 @@ Feel free to explore and contribute to these projects!
 
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=hamzalodhi2023)
 
-<a target="blank" href="https://www.facebook.com/profile.php?id=61554896643347" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a> &nbsp; <a target="blank" href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" /></a>  &nbsp; <a target="blank" href="https://stackoverflow.com/users/23122730/hamza-khan-lodhi" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" /></a>
-
 
 ## Contact
 
 GitHub: hamzalodhi2023
 <br>
 Email: hamzalodhi2023@gmail.com
+
+<a target="blank" href="https://www.facebook.com/profile.php?id=61554896643347" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a> &nbsp; <a target="blank" href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" /></a>  &nbsp; <a target="blank" href="https://stackoverflow.com/users/23122730/hamza-khan-lodhi" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" /></a>
+
+
 ## ❤️ Support
 If you find my work interesting or have any questions, feel free to reach out through email, create a pull request, or open an issue. Give it a star 🌟 if you find it useful. 
 

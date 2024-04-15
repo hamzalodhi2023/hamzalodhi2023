@@ -28,6 +28,22 @@ I'm excited to contribute to the ever-evolving world of front-end development. �
 I'm always eager to learn and grow in the ever-evolving world of web development. I'm currently exploring [specific technology or framework], and I'm excited to share my future projects with you. Let's collaborate, create, and make the web a better place, one line of code at a time. 🚀
 Feel free to explore and contribute to these projects!
 
+## 🛠️ Technologies
+Here are some of the technologies I work with:
+
+- 🧰 JavaScript
+- 🐙 Git
+- :octocat: GitHub
+- 📮 Postman
+- ⚛️ React JS
+- 🚂 Locomotive JS
+- ✨ GSAP
+- 📜 AOS
+- 💨 Tailwind
+- </> HTML
+- 🎨 CSS
+- 🏃‍♂️ Framer Motion
+
 ## 📈 GitHub Activity
 
 ### GitHub Activity Status

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Khan Lodhi</h1>
-<h3 align="center">👋 Hey there! I'm Hamza Khan Lodhi, a passionate Frontend developer based in Karachi, Pakistan. I love creating beautiful and efficient web applications that deliver exceptional user experiences. #FrontendDeveloper #ReactDeveloper</h3>
+<h3 align="center">👋 Hey there! I'm Hamza Khan Lodhi, a passionate Frontend developer based in Karachi, Pakistan. I love creating beautiful and efficient web applications that deliver exceptional user experiences.</h3>
 
 📅 Born on March 17, 2007, I'm on a journey to explore the world of web development and create visually appealing and functional user interfaces. 💻✨
 
@@ -92,3 +92,4 @@ Email: hamzalodhi2023@gmail.com
 If you find my work interesting or have any questions, feel free to reach out through email, create a pull request, or open an issue. Give it a star 🌟 if you find it useful. 
 
 Thanks for visiting! 😊
+#FrontendDeveloper #ReactDeveloper #HamzaKhanLodhi

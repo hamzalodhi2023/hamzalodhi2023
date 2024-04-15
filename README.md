@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Khan Lodhi</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-👋 Hello, I'm Hamza Khan Lodhi, a passionate Front-End Developer based in Karachi, Pakistan. 🌆
+<h3 align="center">👋 Hey there! I'm Hamza Khan Lodhi, a passionate Frontend developer based in Karachi, Pakistan. I love creating beautiful and efficient web applications that deliver exceptional user experiences. #FrontendDeveloper #ReactDeveloper</h3>
 
 📅 Born on March 17, 2007, I'm on a journey to explore the world of web development and create visually appealing and functional user interfaces. 💻✨
 
@@ -14,7 +12,7 @@ I'm excited to contribute to the ever-evolving world of front-end development. �
 🌍 Let's connect and explore the limitless possibilities of the digital landscape together! Find me on GitHub for a peek into my code journey, or connect on LinkedIn to stay updated on my professional endeavors. 🤝
 
 🌟 **What I Bring to the Table:**
-- 💻 Proficient in HTML, CSS, and JavaScript.
+- 💻 Proficient in HTML, CSS, JavaScript, GSAP, LocomotiveJS, ReactJS, Framer Motion, Tailwind CSS and AOS.
 - 🎨 A keen eye for design and a knack for creating pixel-perfect layouts.
 - 🛠️ Experience with responsive web design and cross-browser compatibility.
 - 📐 Strong understanding of web accessibility and best coding practices.
@@ -22,9 +20,9 @@ I'm excited to contribute to the ever-evolving world of front-end development. �
 - 💬 Feel free to reach out to me through my email: hamzalodhi2023@gmail.com
 
 🔨 **My Projects:**
-- 🌐 [Amazon Clone](https://hamzalodhi2023.github.io/amazon-clone/)
-- 🌐 [YouTube Clone](https://hamzalodhi2023.github.io/youtube-clone/)
-- 🌐 [Envision](https://hamzalodhi2023.github.io/Envision/)
+- 🌐 [To Do List](https://mytodolistreactjs.netlify.app/)
+- 🌐 [React Website](https://reactwebsiteproject2.netlify.app/)
+- 🌐 [Docs App](https://master--docsappreact.netlify.app/)
 
 🌱 **What's Next:**
 I'm always eager to learn and grow in the ever-evolving world of web development. I'm currently exploring [specific technology or framework], and I'm excited to share my future projects with you. Let's collaborate, create, and make the web a better place, one line of code at a time. 🚀

@@ -56,7 +56,7 @@ Here are some of the technologies I work with:
 
 ### Languages Status
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2025&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzalodhi2025&theme=react)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamzalodhi2025&theme=tokyonight">
 
 ### Top Language by Reop

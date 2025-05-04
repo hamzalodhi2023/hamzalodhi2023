@@ -94,3 +94,4 @@ If you find my work interesting or have any questions, feel free to reach out th
 
 Thanks for visiting! 😊
 #FrontendDeveloper #ReactDeveloper #HamzaKhanLodhi
+<meta name="google-site-verification" content="gxH4TS-rGdW7da8xwlrZzSslPOkhN-G4jt4pv_bJjHo" />

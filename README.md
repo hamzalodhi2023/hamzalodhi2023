@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Khan Lodhi</h1>
 <h3 align="center">👋 Hey there! I'm Hamza Khan Lodhi, a passionate Frontend developer based in Karachi, Pakistan. I love creating beautiful and efficient web applications that deliver exceptional user experiences.</h3>
 
-📅 Born on March 17, 2007, I'm on a journey to explore the world of web development and create visually appealing and functional user interfaces. 💻✨
+I'm on a journey to explore the world of web development and create visually appealing and functional user interfaces. 💻✨
 
 🚀 As a dedicated front-end enthusiast, I thrive on turning ideas into interactive and seamless user experiences. My coding journey began with a curiosity to bring designs to life and has since evolved into a commitment to stay at the forefront of web technologies. 🌐
 

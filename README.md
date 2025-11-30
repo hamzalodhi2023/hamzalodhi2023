@@ -107,6 +107,7 @@ Admin panel with blogs, skills, education, messages, projects & profile manageme
 - **LinkedIn:** [Click Here](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
 - **Stack Overflow:** [Click Here](https://stackoverflow.com/users/23122730/hamza-khan-lodhi)
 - **Instagram:** [Click Here](https://www.instagram.com/hamzakhanlodhi2025/)
+- **Discord:** [Click Here](https://discord.com/users/1208299744984694785)
 
 ---
 

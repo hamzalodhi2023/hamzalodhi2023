@@ -31,7 +31,9 @@ I started my journey building beautiful interfaces, and now I build entire syste
 - Framer Motion  
 - Locomotive JS  
 - AOS  
-- HTML / CSS / JavaScript  
+- HTML / CSS / JavaScript
+- React Query
+- Redux Toolkit
 
 ### 🖥️ Backend
 - Node.js  

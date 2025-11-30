@@ -14,11 +14,11 @@ I started my journey building beautiful interfaces, and now I build entire syste
 - 🖥️ Frontend development with **React, Tailwind CSS, GSAP, Framer Motion, AOS, LocomotiveJS**
 - 🛠️ Backend development with **Node.js, Express.js**
 - 🗄️ Database design & management using **MongoDB + Mongoose**
-- 🔐 Secure authentication with **JWT, bcrypt, cookies**
+- 🔐 Secure authentication with **JWT, Bcrypt, HTTP only Cookies, Environment Variables, Rate Limiting, Passport.js**
 - 📡 RESTful APIs & clean architecture
-- 🛜 Deployment using **Vercel, Netlify, Render, Hostinger VPS**
+- 🛜 Deployment using **Netlify, Hostinger VPS**
 - 🎨 Pixel-perfect UI + smooth animations
-- 🔄 Building reusable components & scalable full-stack apps
+- 🔄 Building reusable components & scalable full-stack web apps
 
 ---
 

@@ -39,12 +39,15 @@ I started my journey building beautiful interfaces, and now I build entire syste
 - REST APIs  
 - MVC Structure  
 - Middleware  
-- Error Handling  
+- Error Handling
+- .env confregration
+- Helmet.js & CORS
+- Multer
 
 ### 🗄️ Database
 - MongoDB  
-- Mongoose  
-- Aggregation, indexing, schema design  
+- Mongoose
+- Schema Design & validation
 
 ### 🧰 Tools & Others
 - Git & GitHub  
@@ -52,7 +55,9 @@ I started my journey building beautiful interfaces, and now I build entire syste
 - JWT Authentication  
 - bcrypt  
 - Cloudinary  
-- Thunder Client  
+- Thunder Client
+- npm
+- VScode
 
 ---
 
@@ -61,15 +66,12 @@ I started my journey building beautiful interfaces, and now I build entire syste
 ### 🌐 **Complaint Management System (Full MERN)**
 A complete CMS with admin dashboard, CRUD operations, status tracking, token-based auth, and MongoDB database.
 
-### 🧾 **Docs App (MERN Version)**
-Document creation + editing with full CRUD backend.
-
 ### 🎯 **Portfolio CMS (Admin + Frontend)**
 Admin panel with blogs, skills, education, messages, projects & profile management.
 
 ### 💡 React Projects
-- [To Do List](https://mytodolistreactjs.netlify.app/)  
-- [React Website](https://reactwebsiteproject2.netlify.app/)  
+- [Shoppy](https://shopppy.vercel.app/)  
+- [Ochi Clone](https://reactwebsiteproject2.netlify.app/)  
 - [Docs App](https://master--docsappreact.netlify.app/)  
 
 *(More full-stack MERN apps coming soon!)* 🚀  
@@ -94,20 +96,6 @@ Admin panel with blogs, skills, education, messages, projects & profile manageme
 
 ### Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzalodhi2023&theme=react-dark)
-
----
-
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
 
 ---
 

@@ -44,11 +44,14 @@ I started my journey building beautiful interfaces, and now I build entire syste
 - Error Handling
 - .env confregration
 - Helmet.js & CORS
-- Multer
+- Zod
+- Prisma ORM
+- Drizzle ORM
+- Mongoose
 
 ### 🗄️ Database
-- MongoDB  
-- Mongoose
+- My SQL
+- MongoDB
 - Schema Design & validation
 
 ### 🧰 Tools & Others

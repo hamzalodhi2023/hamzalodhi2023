@@ -74,7 +74,8 @@ Admin panel with blogs, skills, education, messages, projects & profile manageme
 ### 💡 React Projects
 - [Shoppy](https://shopppy.vercel.app/)  
 - [Ochi Clone](https://reactwebsiteproject2.netlify.app/)  
-- [Docs App](https://master--docsappreact.netlify.app/)  
+- [Docs App](https://master--docsappreact.netlify.app/)
+- [Pokemon](https://letscatchpikachu.netlify.app/)
 
 *(More full-stack MERN apps coming soon!)* 🚀  
 
